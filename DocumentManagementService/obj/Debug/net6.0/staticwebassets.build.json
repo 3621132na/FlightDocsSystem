@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BgtFy6XfY1bUKKp8reAn/ZC0VcgqVHJxmaVMa+DZG7E=",
+  "Source": "DocumentManagementService",
+  "BasePath": "_content/DocumentManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
